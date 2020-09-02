@@ -1,3 +1,1 @@
- # Example Package
-
-This is a simple starriver package
+# This is a extension for djangorestframework
